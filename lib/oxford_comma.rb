@@ -1,3 +1,4 @@
 def oxford_comma(array)
-  array.split(",")
+  array.each do |string|
+    puts
 end
